@@ -1,0 +1,41 @@
+.group {
+    width: 180px;
+    margin: 0 auto 20px;
+    display: grid;
+    grid-template-columns: 100px 80px;
+}
+
+input {
+    outline:none;
+}
+
+input, select {
+    background: none;
+    border: 0;
+    color: #fff;
+}
+
+input {
+    border: 2px solid #0e0e7d;
+    background: none;
+    background-color: #ffffff;
+    padding-left: 10px;
+    border-radius: 15px;
+    margin-right: 3px;
+}
+input,select:hover{
+    background: none;
+    border-color: white;
+    background-color: #696969;
+    border: 1px solid;
+
+}
+
+
+select {
+    background: none;
+    border: 1px solid;
+    background-color: #696969;
+    border-radius: 15px;
+    padding: 15px;
+}

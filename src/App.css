@@ -1,0 +1,17 @@
+body {
+  background-color: #505050;
+  color: #ddd;
+  padding: 50px;
+}
+
+h1 {
+  color: #eef;
+  text-align: center;
+  margin-left: 40px;
+}
+
+.equals {
+  text-align: center;
+  margin: 15px;
+}
+
